@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maz4/Natours.git"
+  },
+  "author": "Marcin Zasadzki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maz4/Natours/issues"
+  },
+  "homepage": "https://github.com/maz4/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
